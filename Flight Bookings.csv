@@ -1,0 +1,48 @@
+Bookin,Passenger Name,Flight,Departure City,Arrival City,Departure Date,Booking Date, Price ,Class  , Seat,Status
+B001,John Doe,F120,New York,Los Angeles,10/09/2024,12/08/2024, $450 ,Economy, 12A,Confirmed
+B002,Jane Smith,F122,Chicago,New York,05/09/2024,15/08/2024, $300 ,Business, 2B,Confirmed
+B003,Robert Johnson,F119,Miami,Houston,28/08/2024,25/07/2024, $200 ,Economy, 18C,Cancelled
+B004,Emily Davis,F125,San Francisco,Seattle,15/09/2024,20/08/2024, $400 ,First Class,1A,Confirmed
+B005,Michael Brown,F123,Boston,Chicago,30/08/2024,28/07/2024, $350 ,Economy, 15D,Confirmed
+B006,Linda Miller,F118,Dallas,Denver,25/08/2024,26/07/2024, $220 ,Business, 3C,Confirmed
+B007,William Wilson,F121,New York,Miami,07/09/2024,17/08/2024, $275 ,Economy, 14B,Confirmed
+B008,Elizabeth Moore,F127,Seattle,San Francisco,18/09/2024,21/08/2024, $320 ,First Class,1B,Confirmed
+B009,Richard Taylor,F117,Houston,Dallas,23/08/2024,25/07/2024, $150 ,Economy, 22E,Cancelled
+B010,Barbara Anderson,F129,Los Angeles,Boston,12/09/2024,14/08/2024, $475 ,Business, 4D,Confirmed
+B011,Susan Thomas,F124,Chicago,Boston,01/09/2024,01/08/2024, $310 ,Economy, 13A,Confirmed
+B012,Charles Jackson,F130,Denver,Dallas,20/09/2024,25/08/2024, $250 ,Business, 2E,Confirmed
+B013,Joseph Harris,F126,Miami,New York,03/09/2024,05/08/2024, $285 ,Economy, 17C,Confirmed
+B014,Patricia Martin,F119,Seattle,Denver,27/08/2024,28/07/2024, $340 ,First Class,2A,Confirmed
+B015,Christopher White,F122,Boston,Los Angeles,06/09/2024,10/08/2024, $450 ,Economy, 15E,Confirmed
+B016,Amanda Martinez,F120,New York,Miami,08/09/2024,18/08/2024, $270 ,Business, 3A,Confirmed
+B017,George Garcia,F127,Chicago,Denver,16/09/2024,22/08/2024, $330 ,Economy, 16B,Confirmed
+B018,Sarah Rodriguez,F124,Houston,San Francisco,14/09/2024,19/08/2024, $375 ,First Class,1C,Confirmed
+B019,Thomas Lewis,F125,Dallas,New York,09/09/2024,13/08/2024, $420 ,Economy, 14D,Confirmed
+B020,Jessica Lee,F118,Boston,Seattle,04/09/2024,07/08/2024, $380 ,Business, 2B,Confirmed
+B021,Daniel Walker,F121,Miami,Chicago,11/09/2024,16/08/2024, $295 ,Economy, 19A,Confirmed
+B022,Nancy Hall,F129,Los Angeles,New York,13/09/2024,15/08/2024, $460 ,First Class,3D,Confirmed
+B023,Matthew Allen,F130,Chicago,Dallas,19/09/2024,20/08/2024, $260 ,Economy, 15F,Confirmed
+B024,Sandra Young,F119,Denver,Miami,29/08/2024,27/07/2024, $300 ,Economy, 14E,Confirmed
+B025,Kevin King,F126,San Francisco,Seattle,02/09/2024,02/08/2024, $415 ,Business, 1A,Confirmed
+B026,Ashley Wright,F120,New York,Boston,10/09/2024,11/08/2024, $275 ,Economy, 13B,Confirmed
+B027,Brian Scott,F124,Miami,Chicago,15/09/2024,22/08/2024, $295 ,Economy, 17D,Confirmed
+B028,Melissa Green,F127,Los Angeles,Seattle,16/09/2024,24/08/2024, $410 ,Business, 3C,Confirmed
+B029,Kimberly Baker,F123,New York,San Francisco,08/09/2024,12/08/2024, $450 ,First Class,2C,Confirmed
+B030,Eric Nelson,F129,Houston,Denver,18/09/2024,23/08/2024, $220 ,Economy, 18F,Confirmed
+B031,Laura Harris,F118,Dallas,Los Angeles,31/08/2024,30/07/2024, $320 ,Economy, 16A,Confirmed
+B032,Steven Clark,F121,Chicago,Miami,05/09/2024,13/08/2024, $310 ,Business, 2D,Confirmed
+B033,Donna Lewis,F122,New York,Dallas,07/09/2024,19/08/2024, $420 ,Economy, 14C,Confirmed
+B034,Larry Robinson,F126,San Francisco,Chicago,12/09/2024,21/08/2024, $400 ,First Class,1D,Confirmed
+B035,Cynthia Perez,F119,Seattle,Los Angeles,29/08/2024,28/07/2024, $440 ,Business, 3B,Confirmed
+B036,Mark White,F127,Miami,New York,17/09/2024,23/08/2024, $285 ,Economy, 15C,Confirmed
+B037,Angela Adams,F130,Dallas,Chicago,20/09/2024,25/08/2024, $250 ,Economy, 13D,Confirmed
+B038,Michael Brown,F231,New York,Houston,01-11-2024,01-11-2024, $320 ,Business,14A,Confirmed
+B039,Sarah Johnson,F102,Boston,Atlanta,05-11-2024,05-11-2024, $180 ,Economy,22C,Confirmed
+B040,David Wilson,F140,Chicago,Miami,10-11-2024,10-11-2024, $400 ,Business,1A,Confirmed
+B041,Emma Davis,F210,Dallas,New York,15-11-2024,15-11-2024, $275 ,Economy,17E,Confirmed
+B042,John Miller,F300,Houston,Los Angeles,20-11-2024,20-11-2024, $450 ,First,3C,Confirmed
+B043,Olivia Garcia,F410,Miami,Seattle,25-11-2024,25-11-2024, $550 ,First,2D,Confirmed
+B044,William Taylor,F520,Atlanta,Denver,01-12-2024,01-12-2024, $300 ,Business,5B,Confirmed
+B045,Isabella Moore,F600,Seattle,Chicago,10-12-2024,10-12-2024, $350 ,Economy,20F,Confirmed
+B046,James Lee,F705,Denver,Boston,20-12-2024,20-12-2024, $270 ,Economy,18C,Confirmed
+B047,Sophia Clark,F810,Los Angeles,Dallas,30-12-2024,30-12-2024, $400 ,Business,6A,Confirmed
